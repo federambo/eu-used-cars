@@ -57,4 +57,10 @@ Install dependencies: pip install pandas scikit-learn matplotlib seaborn.
 Run eda_cleaning.ipynb to process the raw data.
 
 Run model_training_and_evaluation.ipynb to train the model and see results.
+
+## Data Source
+The raw data used in this project was sourced from **Kaggle**: 
+**[Cars Europe Dataset](https://www.kaggle.com/datasets/alemazz11/cars-europe)** by user *alemazz11*.
+
+**Disclaimer:** This dataset is provided by a third party and is used here for educational and portfolio purposes. I do not claim ownership of the original data collection. All credits go to the original author for gathering and sharing this resource with the community.
                                  
