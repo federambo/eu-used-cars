@@ -44,5 +44,17 @@ The model shows a strong fit, as evidenced by the **Actual vs. Predicted** scatt
 ├── notebooks
 │   └── eda_cleaning.ipynb
 │   └── model_training_and_evaluation.ipynb
-└── README.md                                   
+└── README.md
+
+```
+
+## How to use
+
+Clone this repository.
+
+Install dependencies: pip install pandas scikit-learn matplotlib seaborn.
+
+Run eda_cleaning.ipynb to process the raw data.
+
+Run model_training_and_evaluation.ipynb to train the model and see results.
                                  
